@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Aidan Elliott 👋
 
-<!--
-**Aidanell/Aidanell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: aidan_elliott@sfu.ca
 
-Here are some ideas to get you started:
+## Education
+- BSc in Computer Science from UBC-Okanagan (2021-2025)
+- MSc in Statistics from SFU (2025-2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+ - Lasso Regularization on Local Polynomial Regression for Derivative Estimation (2024-2025)
+ - Predicting MLB Hitting Value using Age Indexed Longitudinal Minor League Data (2025-2026)
+ - Comparing Learning to Rank Models for Metalearning on Regression Algorithms (2026-, Title tentative)
+
+## Awards
+- 2025 SSC Student Research Poster Award ($500)
+- 2025 BC Graduate Scholarship ($17500)
+- 2026 NSERC CGSM Scholarship ($27000)
+
+
