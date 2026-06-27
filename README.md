@@ -6,6 +6,11 @@ Email: aidan_elliott@sfu.ca
 - BSc in Computer Science from UBC-Okanagan (2021-2025)
 - MSc in Statistics from SFU (2025-2027)
 
+## Relevant Employment History
+- Undergraduate Research Assistant at UBC-Okanagan (2024-2025)
+- Statistical Assistant at Statistics Canada (2024-2025)
+- Teaching Assistant at SFU (2026-)
+
 ## Projects
  - Lasso Regularization on Local Polynomial Regression for Derivative Estimation (2024-2025)
  - Predicting MLB Hitting Value using Age Indexed Longitudinal Minor League Data (2025-2026)
